@@ -34,17 +34,6 @@ Clases de dominio:
 - Antes de refactorizar: [refactoring-lab/docs/evidencias/salida-antes.txt](refactoring-lab/docs/evidencias/salida-antes.txt)
 - Despues de refactorizar: [refactoring-lab/docs/evidencias/salida-despues.txt](refactoring-lab/docs/evidencias/salida-despues.txt)
 
-Capturas recomendadas:
-
-- `refactoring-lab/docs/evidencias/captura-antes.png`
-- `refactoring-lab/docs/evidencias/captura-despues.png`
-
-Si agregas esas imagenes con esos nombres, puedes mostrarlas asi:
-
-![Captura antes](refactoring-lab/docs/evidencias/captura-antes.png)
-
-![Captura despues](refactoring-lab/docs/evidencias/captura-despues.png)
-
 ## Proyecto Maven
 
 Para compilar y ejecutar desde la carpeta del laboratorio:
