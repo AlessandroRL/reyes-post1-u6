@@ -1,0 +1,17 @@
+﻿Libro agregado: Clean Code
+Libro agregado: Design Patterns
+Socio registrado: Ana Torres
+Prestamo realizado: libro L01 a socio S01
+=== REPORTE BIBLIOTECA ===
+Libros registrados: 2
+Libros disponibles: 1
+Socios registrados: 1
+Prestamos activos: 1
+==========================
+Libro devuelto: Clean Code
+=== REPORTE BIBLIOTECA ===
+Libros registrados: 2
+Libros disponibles: 2
+Socios registrados: 1
+Prestamos activos: 1
+==========================
